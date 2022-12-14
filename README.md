@@ -1,23 +1,23 @@
-- 👋 Hi, I’m Sahil Mehra
+- 👋 Hi, I’m Ricardo Serrano
 - 👀 I’m interested in Web Development , Data science & technologies
 - 🌱 I’m currently working on Self-Development -  Website - Django API + React & Redux - Cars website.
 - 💞️ I’m looking to collaborate with someone who is working on Web Application Project.
-- 📫 How to reach me - github id - Sahilmehra23
+- 📫 How to reach me - github id - RICHIE-LUNIMIS
 
 <!---
-Sahilmehra23/Sahilmehra23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+RICHIE-LUNIMIS/Richie-Lunimis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### Hi there 👋, I'm [Sahil Mehra](https://github.com/Sahilmehra23]
+### Hi there 👋, I'm [Ricardo Serrano](https://github.com/RICHIE-LUNIMIS]
 ) 👨‍💻
 
 ### Visitors-Count
-![Visitor Count](https://profile-counter.glitch.me/{Sahilmehra23}/count.svg)   
+![Visitor Count](https://profile-counter.glitch.me/{RICHIE-LUNIMIS}/count.svg)   
 
 <br/>
 
 <a href="https://">
-  <img align="left" alt="Sharad's Linkedin" width="80px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="Richie's Linkedin" width="80px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="add your link here">
@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 <a href="mailto:">
-  <img align="left" alt="Sahil's Email" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img align="left" alt="Richie's Email" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 
@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 <p>
-A Skilled FullStack Web Developer 🚀 from India. Always working on some project or learning something new!
+A Skilled FullStack Web Developer 🚀 from USA. Always working on some project or learning something new!
 <br/>
 Stacks I have worked with : React-Redux
 <br/>  
@@ -52,9 +52,9 @@ Want to become an Entrerpreneur for Environmental Services 🌳 and an Open Sour
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently working as a Full Stack Web Developer @ [TECHIS](https://techis.io/)
+- 👨🏽‍💻 I’m currently a student as a Full Stack Web Developer @ [TECHIS](https://techis.io/)
 
-- 📫 How to reach me: sharadkumar@techis.io
+- 📫 How to reach me: Lunimisxxxxx@gmail.com
 - 📝 [Resume](add your link here)
 
 ### 🛠️ Languages and Tools:
@@ -80,26 +80,26 @@ Want to become an Entrerpreneur for Environmental Services 🌳 and an Open Sour
 
 
 
-###### ❤️ Offer work : Send the offer on [![Linkedin Badge](https://img.shields.io/badge/-Sahil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil.linkdin//)](https://www.linkedin.com/in//)or[![Gmail Badge](https://img.shields.io/badge/-sahil@techis.io-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahil@techis.io)](mailto:sahil@techis.io)
+###### ❤️ Offer work : Send the offer on [![Linkedin Badge](https://img.shields.io/badge/-Richie-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Richie.linkdin//)](https://www.linkedin.com/in//)or[![Gmail Badge](https://img.shields.io/badge/--c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Lunimisxxxxx@gmail.com)](mailto:Lunimisxxxxx@gmail.com)
 
 
-###### ❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/sahil?label=Follow&style=social)](https://github.com/Sahilmehra23/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/) if you are on a similar path as mine.
+###### ❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/Richie?label=Follow&style=social)](https://github.com/RICHIE-LUNIMIS/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/) if you are on a similar path as mine.
 
 
-###### ❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Sahil Mehra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/)](https://www.linkedin.com/in)
+###### ❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Ricardo Serrano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/)](https://www.linkedin.com/in)
 
 
 ----------------------------------------------------------
 
-![](https://github-readme-stats.vercel.app/api?username=Sahilmehra23&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api?username=RICHIE-LUNIMIS&theme=blue-green)
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilmehra23&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RICHIE-LUNIMIS&theme=blue-green)
 
 
 ![](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 
 <!---
-Sahilmehra23/Sahilmehra23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+RICHIE-LUNIMIS/Richie-Lunimis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
