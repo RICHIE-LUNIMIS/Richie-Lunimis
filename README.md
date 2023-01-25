@@ -8,7 +8,7 @@
 RICHIE-LUNIMIS/Richie-Lunimis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### Hi there 👋, I'm [Ricardo Serrano](https://github.com/RICHIE-LUNIMIS]
+### Hi there 👋, I'm [Ricardo Serrano](https://github.com/RICHIE-LUNIMIS)
 ) 👨‍💻
 
 ### Visitors-Count
