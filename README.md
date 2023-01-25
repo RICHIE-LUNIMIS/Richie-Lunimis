@@ -55,7 +55,7 @@ Want to become an Entrerpreneur for Environmental Services 🌳 and an Open Sour
 - 👨🏽‍💻 I’m currently a student as a Full Stack Web Developer @ [TECHIS](https://techis.io/)
 
 - 📫 How to reach me: Lunimisxxxxx@gmail.com
-- 📝 [Resume](add your link here)
+- 📝 [Resume](https://portfolio-r.richielunimis.repl.co/)
 
 ### 🛠️ Languages and Tools:
 
